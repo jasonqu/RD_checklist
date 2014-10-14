@@ -170,19 +170,19 @@ RD_checklist
           - 正则（弱），js引擎（王道）
     - Office能力
     - 熟练VIM
-      - 实战至少3回合：http://coolshell.cn/articles/5426.html User Link
+      - 实战至少3回合：http://coolshell.cn/articles/5426.html
     - 正则表达式
       - 调试工具
         - Kodos
         - RegexBuddy
           - 支持多种语言
           - 支持调试优化
-        - http://www.regexper.com/ User Link
+        - http://www.regexper.com/
           - 正则图解
-        - 正则表达式30分钟入门教程：http://deerchao.net/tutorials/regex/regex.htm User Link
-        - http://wiki.ubuntu.org.cn/Python正则表达式操作指南 User Link
-        - attach regex/regularexpressions.pptx User Link
-        - attach regex/正则表达式引擎浅析.txt User Link
+        - 正则表达式30分钟入门教程：http://deerchao.net/tutorials/regex/regex.htm
+        - http://wiki.ubuntu.org.cn/Python正则表达式操作指南
+        - attach regex/regularexpressions.pptx
+        - attach regex/正则表达式引擎浅析.txt
     - 研发能力
       - 瀑布模型：需求->需求分析->设计->开发->测试->上线->运维/运营
       - 需求分析能力
@@ -218,7 +218,7 @@ RD_checklist
       - 8+1：一图胜千言 http://blog.knownsec.com/Knownsec_RD_Checklist/web_component.png
       - 钟馗之眼
         - 网络空间搜索引擎
-        - http://www.zoomeye.org User Link
+        - http://www.zoomeye.org
       - 组件具有影响面，越底层的组件影响面可能越大
     - 安全维度
       - 漏洞
@@ -233,10 +233,10 @@ RD_checklist
           - XSS
           - CSRF
           - ClickJacking
-        - http://xss-quiz.int21h.jp/ User Link
+        - http://xss-quiz.int21h.jp/
           - attach 答案：xss/xss_quiz.txt http://blog.knownsec.com/Knownsec_RD_Checklist/xss/xss_quiz.txt
       - SQL
-        - https://github.com/Audi-1/sqli-labs User Link
+        - https://github.com/Audi-1/sqli-labs
           - SQLI-LABS is a platform to learn SQLI
       - 500多个WSL靶场
       - 渗透虚拟机/BT5/Kali
@@ -247,7 +247,7 @@ RD_checklist
       - [ ] Web前端黑客技术揭秘
       - [ ] SQL注入攻击与防御
     - papers
-      - http://www.exploit-db.com/papers/ User Link
+      - http://www.exploit-db.com/papers/
       - BlackHat/Defcon/国内各安全沙龙等Papers需要持续跟进
   - 研发清单
     - 编码环境
@@ -329,7 +329,7 @@ RD_checklist
         - Python内
           - timeit
           - cProfile
-          - Python性能分析指南：http://www.oschina.net/translate/python-performance-analysis User Link
+          - Python性能分析指南：http://www.oschina.net/translate/python-performance-analysis
         - Python外
           - top/htop/free/iostat/vmstat/ifconfig/iftop...
     - 算法
@@ -373,17 +373,17 @@ RD_checklist
       - 一个字总结
         - 美
   - 优质资源
-    - 知乎周刊：http://zhuanlan.zhihu.com/Weekly User Link
-    - 码农周刊：http://weekly.manong.io/ User Link
-    - Pycoder's Weekly：http://pycoders.com/archive/ User Link
-    - Hacker News：https://news.ycombinator.com/ User Link
-    - Startup News：http://news.dbanotes.net/ User Link
-    - 极客头条：http://geek.csdn.net/ User Link
-    - InfoQ：http://www.infoq.com/cn User Link
-    - Stack Overflow：http://stackoverflow.com/ User Link
-    - GitHub：https://github.com/ User Link
-    - FreeBuf：http://www.freebuf.com/ User Link
-    - WooYun：http://drops.wooyun.org/ User Link
+    - 知乎周刊：http://zhuanlan.zhihu.com/Weekly
+    - 码农周刊：http://weekly.manong.io/
+    - Pycoder's Weekly：http://pycoders.com/archive/
+    - Hacker News：https://news.ycombinator.com/
+    - Startup News：http://news.dbanotes.net/
+    - 极客头条：http://geek.csdn.net/
+    - InfoQ：http://www.infoq.com/cn
+    - Stack Overflow：http://stackoverflow.com/
+    - GitHub：https://github.com/
+    - FreeBuf：http://www.freebuf.com/
+    - WooYun：http://drops.wooyun.org/
   - 牛人1,2,3
     - 1研究：研究东西，有足够洞察力，研究水准不错
     - 2研发：hack idea自己有魄力实现，不懂研发的黑客如同不会游泳的海盗
